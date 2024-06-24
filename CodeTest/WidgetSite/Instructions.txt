@@ -1,0 +1,8 @@
+﻿Scenario:
+A developer on your team at Widgets International is tasked with creating a web interface so that WI customers can search the company's Widget inventory and so that WI warehouse employees can update their stock. This is the first release of the website and you're responsible for performing a code review before the code can be cheked into the release branch. Review the attached C# project and send back your response.
+
+1. The response should be in a separate document, as opposed to inline comments in the code
+2. Assume that the UI/UX is acceptable. This test isn't about visual design.
+3. There's no set format for your response. Be clear, and please explain why you gave the feedback you did.
+4. There's deliberately no database or database structure included. This is purely a review of the included code independent of a database
+5. Feel free to comment both on code implementation and architecture.
