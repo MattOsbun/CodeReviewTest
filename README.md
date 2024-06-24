@@ -17,4 +17,4 @@ Best of all, ChatGPT is useless here. Even if "AI" can give just as deep and opi
 
 Free as in "beer". If you find value here, use it. If you want to fork and update the code for your own use, do so. I wouldn't hate a shout-out, but I won't insist on one either. If you agree with this process then find a way to implement it to make hiring better for the candidate and better for the hiring company.
 
-I have locked down the main branch but if you have suggestions, feedback, and/or improvements, feel free to cut a branch and raise a PR. Or fork the project. Or whatever.
+I have locked down the main branch but if you have suggestions, feedback, and/or improvements, feel free to cut a branch and raise a PR. Or fork the project. Or whatever. Branch names must start with "External/" so that it's easier for me to tell outside branchs from others.
